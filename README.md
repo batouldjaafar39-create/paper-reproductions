@@ -37,7 +37,7 @@ Each audit generally covers:
 
 ## Related Work
 
-See also: [Argus](link-to-argus-repo) — original research on evidence-grounded LLM-assisted SOC investigation.
+See also: [Argus]([http](https://github.com/batouldjaafar39-create/Argus.git)) — original research on evidence-grounded LLM-assisted SOC investigation.
 
 ## Contact
 
