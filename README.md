@@ -18,7 +18,7 @@ Reproducibility audit of [arXiv:2110.02519](https://arxiv.org/abs/2110.02519).
 - Traced downstream effects on the learning-rate decay curve
 - Flagged two additional items requiring code-level verification
 
-📁 [`/e1d3-unet`](./e1d3-unet)
+📁 [`/e1d3-unet`](/E1D3_U-Net_for_Brain_Tumor_Segmentation)
 
 ### Cross-Dataset Generalization in Pneumonia Detection (Zech et al., 2018)
 Reproducibility audit examining cross-dataset generalization claims.
