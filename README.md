@@ -25,7 +25,7 @@ Reproducibility audit examining cross-dataset generalization claims.
 - Scoped audit methodology and justified rejecting a partial reproduction
 - Documented implications for future reproduction targets and strategy
 
-📁 [`/zech-pneumonia-generalization`](./zech-pneumonia-generalization)
+📁 [`/zech-pneumonia-generalization`](/zech-pneumonia-generalization)
 
 ## Method
 
